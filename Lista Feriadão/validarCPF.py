@@ -22,3 +22,4 @@ if __name__ == "__main__":
     
     user = input("Digite um número de cpf sem ponto e hífen. Tudo junto: ")
     print(validarCpf(user))
+    
