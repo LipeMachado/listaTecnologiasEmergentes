@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 paises = ("Brazil", "EUA", "Russia", "China")
 linguas = ("Portugues", "Ingles", "Russo", "Mandarim")
 dic = {}
