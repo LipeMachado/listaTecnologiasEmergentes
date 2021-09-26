@@ -7,3 +7,4 @@ for i in range(len(v)):
     if i == min(v):
         v[menor] = 0
         print(v)
+        
