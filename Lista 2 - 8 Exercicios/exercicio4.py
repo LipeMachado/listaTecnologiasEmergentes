@@ -9,7 +9,7 @@ def first_half(array):
     else:
         mean = np.mean(array)
         meanR = np.delete(array, int(mean))
-        return meanR
+        return meanR[:2:]
         
 x1 = np.array([1, 2, 3, 4])
 print(first_half(x1))
