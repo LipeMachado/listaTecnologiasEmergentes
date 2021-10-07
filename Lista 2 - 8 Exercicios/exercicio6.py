@@ -7,4 +7,4 @@ y = np.array([2, 1, 8, 0])
 
 concat = np.concatenate([x, y])
 
-print(concat)
+print(tuple(concat))
