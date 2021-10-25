@@ -1,0 +1,6 @@
+Tapioca,5.00
+Feijão,4.00
+Macarrão,3.00
+Pipoca,1.50
+Cheetos,16.00
+Sorvete,10.50
