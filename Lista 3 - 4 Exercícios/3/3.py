@@ -21,3 +21,4 @@ for line in abrir:
     saida = open("saida.txt", "a")
     saida.write(f"{str(nome)} \n{str(idade)} \n{str(msg)} \n" + 10*"-=-" + "\n")
     saida.close()
+    
